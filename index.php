@@ -23,7 +23,7 @@ $blockHeuristica = [
     'B6' => ['B' => 3],
 ];
 
-$posicion_inicial = 'B2';
+$posicion_inicial = 'B';
 $punto_monatje = 'A';
 $busquedaExhaustiva = busqueda_exhaustiva($blockExhaustiva, $posicion_inicial, $punto_monatje);
 $busquedaHeuristica = busqueda_heuristica($blockHeuristica, $posicion_inicial, $punto_monatje);
