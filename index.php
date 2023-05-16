@@ -67,7 +67,7 @@ $busqueda_primero_mejor = busqueda_primero_mejor($grafoHeuristica, $posicion_ini
     </div>
 
     <div class="section-header">
-        <h1>Búsqueda heurística - Busqueda primero el mejor</h1>
+        <h1>Búsqueda heurística - Búsqueda primero el mejor</h1>
     </div>
 
     <div class="graph">
