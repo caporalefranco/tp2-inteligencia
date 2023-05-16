@@ -1,4 +1,4 @@
-# Trabajo práctico N°2 - Inteligencia Aritificial
+# Trabajo práctico N°2 - Inteligencia Artificial
 ALUMNO: CAPORALE FRANCO
 
 LEGAJO: VINF09703
